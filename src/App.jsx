@@ -1,3 +1,7 @@
+{/* This is a test pull request */}
+// or just console.log("testing PR")
+
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Home } from "./pages/home";
 import { NotFound } from "./pages/404";
